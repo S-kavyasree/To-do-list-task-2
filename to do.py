@@ -73,6 +73,7 @@ def render():
         completed = sum(t["done"] for t in tasks)
         total = len(tasks)
 
+
         folder_frame = tk.Frame(container, bg="#e8f0ff", padx=10, pady=6)
         folder_frame.pack(fill="x", pady=8, padx=10)
 
@@ -127,6 +128,7 @@ def render():
                           bg="#ff6b6b",
                           fg="white",
                           bd=0).pack(side="right")
+
 
 root = tk.Tk()
 root.title("To-Do Manager")

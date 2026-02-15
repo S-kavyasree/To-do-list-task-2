@@ -52,7 +52,7 @@ Project Structure
 ├── advanced_tasks.json
 │    Stores folders and tasks data
 
-├── screenshot/
+├── screenshot
 │    Application screenshots
 
 └── README.md

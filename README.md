@@ -47,14 +47,14 @@ This application helps users organize tasks inside folders, track progress, and 
 Project Structure
 
 ├── to do.py
-│   └── Main application file
+│    Main application file
 
 ├── advanced_tasks.json
-│   └── Stores folders and tasks data
+│    Stores folders and tasks data
 
-├── screenshots/
-│   └── Application screenshots
+├── screenshot/
+│    Application screenshots
 
 └── README.md
-    └── Project documentation
+     Project documentation
 
